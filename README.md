@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aniket Srivastava, someone with an interest in computer software and programming.
-     I want to learn as much about computers as much is needed to guaranty me a job.
-     All in all getting a reasonable Job in reputed company is my first priority.
+     Learning is my passion, and I am eagerly interested in learning about designing and developing.
+     All in all, I want to work somewhere where my passion is fullfilled and I can get creative with my skills!
 
-- 🌱 I’m currently searching for jobs related to my field
-- 💞️ I’m looking to collaborate on any project necessary for placement and which can give some practical knowledge about the corporate world out there.
+- 🌱 I’m currently looking for some fullstack opportunities preferably Java.
+- 💞️ I’m looking to collaborate on any creative project which solves some real world problem and can give some practical knowledge about the systems that keep the world running.
 - 📫 You can reach me via my mail - rayquazamega75@gmail.com
-
+- or mobile - "+91 9060768332"
